@@ -38,6 +38,7 @@
 - 🐙 GitHub: [github.com/utkarshjeet](https://github.com/utkarshjeet)
 - 📸 Instagram: [instagram.com/utkarshjeet](https://instagram.com/utkarshjeet)
 - ▶️ YouTube: [youtube.com/@utkarshjeet](https://youtube.com/@utkarshjeet)
+- 🧑‍💻 Leetcode: [leetcode.com/u/utkarshjeet98/](https://leetcode.com/u/utkarshjeet98)
 
 ---
 
