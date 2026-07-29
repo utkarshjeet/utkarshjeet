@@ -1,46 +1,57 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Jeet Singh Yadav</h1>
-<h3 align="center">A Self-Taught Full Stack Developer & Builder</h3>
+
+<h3 align="center">
+Full Stack Developer • Backend Developer • Problem Solver
+</h3>
+
+<p align="center">
+  🌐 <a href="https://utkarshjeet.vercel.app"><strong>Portfolio</strong></a> •
+  💼 <a href="https://www.linkedin.com/in/utkarshjeet">LinkedIn</a> •
+  🐙 <a href="https://github.com/utkarshjeet">GitHub</a> •
+  💻 <a href="https://leetcode.com/u/utkarshjeet98/">LeetCode</a>
+</p>
 
 ---
 
-🚀 I’m currently focused on learning and building real-world full stack projects using **MERN Stack**.
+## 🚀 About Me
 
-💡 Recently built a [Pomodoro Timer](https://utkarshjeet.github.io/pomodoro/) — check it out!
+I'm a Computer Science student passionate about building scalable web applications, backend systems, and developer tools.
 
-🎯 I love building tools that are minimal, useful, and performance-focused.
+I enjoy solving DSA problems, designing APIs, and creating products that solve real-world problems.
 
-💻 Currently exploring:
-- React.js & Node.js
-- MongoDB, Express.js
-- Backend API building
-- Deployment with GitHub Pages, Vercel
+Currently focusing on:
 
-📈 Actively looking for **internships and freelance opportunities** in web development.
-
----
-
-### 🧰 Tech Stack
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+- ⚛️ React & Next.js
+- 🟢 Node.js & Express.js
+- 🍃 MongoDB
+- 🏗️ Backend Architecture
+- 📚 Data Structures & Algorithms
 
 ---
 
-### 📫 Connect with me
+## 🌟 Featured Projects
 
-- 🔗 LinkedIn: [linkedin.com/in/utkarshjeet](https://www.linkedin.com/in/utkarshjeet)
-- 🐙 GitHub: [github.com/utkarshjeet](https://github.com/utkarshjeet)
-- 📸 Instagram: [instagram.com/utkarshjeet](https://instagram.com/utkarshjeet)
-- ▶️ YouTube: [youtube.com/@utkarshjeet](https://youtube.com/@utkarshjeet)
-- 🧑‍💻 Leetcode: [leetcode.com/u/utkarshjeet98/](https://leetcode.com/u/utkarshjeet98)
+- 🌐 **Portfolio Website** → https://utkarshjeet.vercel.app
+- 📷 **InstaFeed**
+- 🔐 **Social Media Backend API**
+- ⏱️ **Pomodoro Timer**
+- 📊 **DSA Progress Tracker**
 
 ---
 
-_“Learning by doing — building projects is my favorite way to grow.”_
+## 🧰 Tech Stack
 
+(Keep your badges)
+
+---
+
+## 📫 Connect With Me
+
+- 🌐 Portfolio: https://utkarshjeet.vercel.app
+- 💼 LinkedIn: https://linkedin.com/in/utkarshjeet
+- 🐙 GitHub: https://github.com/utkarshjeet
+- 💻 LeetCode: https://leetcode.com/u/utkarshjeet98/
+
+---
+
+⭐ Always building. Always learning.
